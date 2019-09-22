@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+    .banner-heading {
+    margin: 0px;
+}
+    .banner-heading >h1 {
+    font-size: 30px;
+    
+}
+    .galley-col-4{
+    padding: 0px 5px 10px 5px !important;
+   
+}
+    .contact-us-container , .address{
+     padding: 0px;
+}
+    .info-about-school {
+
+    flex-direction: column;
+}
+    .our-team {
+    padding: 50px 0px;
+    
+}
+    .banner {
+        
+
+}
+
+.robotics-club {padding:50px 0px;}
+
+
+}
